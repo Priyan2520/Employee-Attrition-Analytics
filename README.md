@@ -327,6 +327,6 @@ Employee-Attrition-Analytics/
 **Priya Pradeep Nakate**  
 *Data Analytics Intern | SyntecxHub*  
 
-*   **GitHub:** [github.com/Priyan2520](https://github.com/Priyan2520)
-*   **LinkedIn:** [linkedin.com/in/priya-nakate](https://linkedin.com/in/priya-nakate) (Replace with your actual profile URL)
-*   **Email:** priya.nakate@example.com (Replace with your professional email)
+*   **GitHub:** https://github.com/Priyan2520
+*   **LinkedIn:** https://www.linkedin.com/in/priyanakate25/
+*   **Email:** nakatepriya525@gmail.com
