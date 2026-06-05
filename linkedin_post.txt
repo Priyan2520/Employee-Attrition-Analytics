@@ -1,0 +1,21 @@
+Just finished my main internship project at SyntecxHub — an HR analytics deep-dive on employee attrition using Python and Power BI. Sharing a few things I found genuinely interesting.
+
+The dataset had 1,470 employee records with about 35 attributes — job level, salary, overtime, satisfaction ratings, age, department. The headline number was a 16.1% annual attrition rate, which is above the typical 10-12% benchmark for professional services.
+
+A few patterns stood out:
+
+The overtime finding was the sharpest. Employees working overtime left at 30.5% — nearly 3× the 10.4% rate for those who didn't. I was expecting it to matter, but not that much. It probably isn't overtime itself that drives people out — it's more likely a proxy for understaffed teams, poor workload planning, or roles that are harder than advertised. Either way, it's the clearest flag in the data.
+
+Sales Representatives had a ~40% attrition rate. That's not a personality or hiring problem — it's structural. The role appears to have limited upward mobility and compensation that doesn't reflect market rates. One straightforward fix would be adding a "Senior" tier with a meaningful pay step, rather than jumping from Rep directly to Manager.
+
+The salary gap between retained and departing employees was around $24,000 at the median. Some of that is seniority, but not all of it.
+
+The youngest cohort (18–25) churned at 36%. That's partly expected — early-career mobility is high everywhere. But the gap from 26-35 (19.6%) to 18-25 (36.2%) is large enough to suggest the onboarding and development experience for new grads needs work.
+
+On the technical side: built the full cleaning pipeline in Python, generated 8 charts in Matplotlib/Seaborn with a consistent corporate colour scheme, and documented the Power BI dashboard (DAX, layout, theme) in enough detail that someone could rebuild it from the guide without asking questions.
+
+GitHub link in bio if you want to look at the code or charts.
+
+Learned a lot about turning analysis into something a non-technical stakeholder can actually use — which turned out to be most of the work.
+
+#DataAnalytics #Python #PowerBI #HRAnalytics #Internship
